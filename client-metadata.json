@@ -1,0 +1,6 @@
+{
+  "client_id": "https://sarvangii.github.io/cimd-test/client-metadata.json",
+  "client_name": "Postman CIMD Test",
+  "redirect_uris": ["https://oauth.pstmn.io/v1/callback"],
+  "token_endpoint_auth_method": "none"
+}
